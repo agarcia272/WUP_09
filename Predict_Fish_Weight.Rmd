@@ -88,8 +88,11 @@ as.data.frame(summary.out$outmat)
 
 ### Best Models
 
-### Best Two regressor model
+Best model for this case is three variables
 
+### Best Two regressor model
+ 
+From the graph the best two-paramter regressor model is based on Length1 and Length3
 
 
 ## Roach
@@ -119,7 +122,12 @@ as.data.frame(summary.out$outmat)
 
 ### Best Models
 
+Best model for this case is using three variables
+
 ### Best Two regressor model
+
+From the graph the best two-paramter regressor model is based on Length1 and Length3
+
 
 ## Final Summary Statements
 
